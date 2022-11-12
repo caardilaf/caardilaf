@@ -1,5 +1,5 @@
 ## 🔩 About Me:
-👨‍💻 I'm a Data Scientist interested in developing easily scalable data products.<br>🔭 Currently working on microservices for Data Engineering and Machine Learning.<br>🦾 Passionate about automating data processes.<br>🌱 Currently learning DataOps and MLOps technologies.<br>💬 Shoot me an e-mail or add me on LinkedIn.
+👨‍💻 I'm a Data Scientist interested in developing easily scalable data products.<br>🔭 Working on microservices for Data Engineering and Machine Learning.<br>🦾 Passionate about automating data processes.<br>🌱 Currently learning DataOps and MLOps technologies.<br>📪 e-mail: caardilaf@gmail.com<br>💬 Shoot me an e-mail or add me on LinkedIn.
 
 
 ## 🌐 Socials:
